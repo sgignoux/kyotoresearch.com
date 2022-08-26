@@ -1,5 +1,5 @@
 ---
-title: Project: move to Kyoto
+title: "Project: move to Kyoto"
 date: 2022-02-03
 ---
 

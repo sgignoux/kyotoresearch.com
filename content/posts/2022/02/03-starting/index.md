@@ -3,12 +3,6 @@ title: "Project: move to Kyoto"
 date: 2022-02-03
 ---
 
-
-{{ $image := .Resources.GetMatch "sunset.jpg" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
-{{ $image := $image.Resize "600x" }}
-
-
 It started as an itch. It started during the COVID lockdown. I felt empty. I couldn't project into any future. I thought that I didn't have anything that I really want to do. A project that would drive me forward thought this strange time.
 
 After some thinking and looking back at some notes, I found a really compelling idea that resonated emotionally with me. I wanted to change my surroundings to something new and do something special. I have been studying Japanese for more than 10 years, my wife is Japanese and after living together for 10 years in Paris and getting two children, I thought that a change in perspective would be good for our family.
@@ -35,3 +29,4 @@ What an adventure. I am looking forward to every step.
 
 Paris, August 20222
 
+{{ $image := .Resources.GetMatch "IMG_1508.jpg" }}
